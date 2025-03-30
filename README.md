@@ -1,13 +1,33 @@
-- 👋 Hi, I’m Frank Oge (@hack3rvirus)  
-- 👀 I’m interested in Python programming, data analysis, database management (MySQL), backend development, graphics design, ethical hacking, and exploring Django for web development.  
-- 🌱 I’m currently learning Django, ethical hacking, and working on building AI-powered chatbots for various specializations. I’m also exploring the intersection of cryptocurrency and AI.  
-- 💞 I’m looking to collaborate on projects related to Python, data analysis, backend development, and creative ventures in chatbot development, video editing, and logo design.  
-- 📫 How to reach me:  
-  - [X](http://www.x.com/blackhatVIRUS) 🐦  
-  - [LinkedIn](https://www.linkedin.com/in/frank-oge-b56455335) 👔  
-  - [YouTube](https://youtube.com/@everythingevolutionyt?si=IOKByzDE2lKHoFMr) 🌐  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love combining my technical expertise in Python and backend development with creativity through AI-driven chatbot projects and graphic design.  
+# 👋 Hello, I'm Frank Kelechi Oge 
+
+## 🚀 About Me  
+I’m a **passionate developer** who loves **turning ideas into real-world solutions**.  
+With strong expertise in **Python, Django, and MySQL**, I’ve worked on diverse projects, from **Telegram bots** to **full-fledged web applications**.  
+
+I also enjoy **frontend development**, ensuring user-friendly interfaces for seamless experiences.  
+My expertise extends to **database analysis, AI innovations, and automation**, making data work smarter.  
+
+## 🛠️ Tech Stack  
+- **Backend:** Python, Django, Django REST Framework  
+- **Frontend:** HTML, CSS, JavaScript (Basic)  
+- **Database:** MySQL, PostgreSQL  
+- **Other Tools:** Git, Excel, PowerPoint, APIs, AI/ML (Exploring)  
+
+## 📌 Projects & Experience  
+- ✅ Built **Telegram bots** with Python for automation  
+- ✅ Developed **full-stack web applications** using Django & MySQL  
+- ✅ Conducted **in-depth database analysis & data visualization**  
+- ✅ Explored **AI integrations & automation solutions**  
+
+## 📫 Connect with Me  
+Feel free to reach out for **collaborations, discussions, or just tech talk!**  
+🔗 **GitHub:** [github.com/yourusername](https://github.com/hack3rvirus)  
+🔗 **Twitter/X:** [@blackhatVIRUS](https://x.com/blackhatVIRUS)  
+🔗 **LinkedIn:** [linkedin.com/in/ogekelechifrank](https://www.linkedin.com/in/ogekelechifrank)  
+🔗 **Telegram:** [t.me/hacker_viruus](https://t.me/hacker_viruus)  
+
+---
+💡 **Always learning, building, and pushing the boundaries of technology!**
 
 <!---
 hack3rvirus/hack3rvirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
