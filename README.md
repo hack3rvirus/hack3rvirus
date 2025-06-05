@@ -24,7 +24,7 @@ Feel free to reach out for **collaborations, discussions, or just tech talk!**
 🔗 **GitHub:** [github.com/yourusername](https://github.com/hack3rvirus)  
 🔗 **Twitter/X:** [@blackhatVIRUS](https://x.com/blackhatVIRUS)  
 🔗 **LinkedIn:** [linkedin.com/in/ogekelechifrank](https://www.linkedin.com/in/ogekelechifrank)  
-🔗 **Telegram:** [t.me/hacker_viruus](https://t.me/hacker_viruus)  
+🔗 **Telegram:** [t.me/hacker_viruus](https://t.me/HACK3RVIRUS)  
 
 ---
 💡 **Always learning, building, and pushing the boundaries of technology!**
