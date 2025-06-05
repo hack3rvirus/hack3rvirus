@@ -8,8 +8,8 @@ I also enjoy **frontend development**, ensuring user-friendly interfaces for sea
 My expertise extends to **database analysis, AI innovations, and automation**, making data work smarter.  
 
 ## 🛠️ Tech Stack  
-- **Backend:** Python, Django, Django REST Framework  
-- **Frontend:** HTML, CSS, JavaScript (Basic)  
+- **Backend:** Python, Django, Django REST Framework 
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Database:** MySQL, PostgreSQL  
 - **Other Tools:** Git, Excel, PowerPoint, APIs, AI/ML (Exploring)  
 
@@ -21,7 +21,7 @@ My expertise extends to **database analysis, AI innovations, and automation**, m
 
 ## 📫 Connect with Me  
 Feel free to reach out for **collaborations, discussions, or just tech talk!**  
-🔗 **GitHub:** [github.com/yourusername](https://github.com/hack3rvirus)  
+🔗 **GitHub:** [github.com/hack3rvirus](https://github.com/hack3rvirus)  
 🔗 **Twitter/X:** [@blackhatVIRUS](https://x.com/blackhatVIRUS)  
 🔗 **LinkedIn:** [linkedin.com/in/ogekelechifrank](https://www.linkedin.com/in/ogekelechifrank)  
 🔗 **Telegram:** [https://t.me/HACK3RVIRUS](https://t.me/HACK3RVIRUS)  
