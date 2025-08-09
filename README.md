@@ -22,7 +22,7 @@ My expertise extends to **database analysis, AI innovations, and automation**, m
 ## 📫 Connect with Me  
 Feel free to reach out for **collaborations, discussions, or just tech talk!**  
 🔗 **GitHub:** [github.com/hack3rvirus](https://github.com/hack3rvirus)  
-🔗 **Twitter/X:** [@blackhatVIRUS](https://x.com/BuiltByFrank)  
+🔗 **Twitter/X:** [@BuiltByFrank](https://x.com/BuiltByFrank)  
 🔗 **LinkedIn:** [linkedin.com/in/ogekelechifrank](https://www.linkedin.com/in/ogekelechifrank)  
 🔗 **Telegram:** [https://t.me/HACK3RVIRUS](https://t.me/HACK3RVIRUS)  
 
