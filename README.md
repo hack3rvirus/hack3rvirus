@@ -8,9 +8,9 @@ I also enjoy **frontend development**, ensuring user-friendly interfaces for sea
 My expertise extends to **database analysis, AI innovations, and automation**, making data work smarter.  
 
 ## 🛠️ Tech Stack  
-- **Backend:** Python, Django, Django REST Framework 
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Database:** MySQL, PostgreSQL  
+- **Backend:** Python, Django, Django REST Framework, Fastapi, Node.JS 
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, NextJS, Shadcn, Tailwind UI, Material UI, Chakra UI
+- **Database:** MySQL, PostgreSQL, Firebase, Supabase, PlanetDB  
 - **Other Tools:** Git, Excel, PowerPoint, APIs, AI/ML (Exploring)  
 
 ## 📌 Projects & Experience  
